@@ -5,5 +5,5 @@ function animal(type,age){
 
 var cat = new animal('cat',7);
 
-cat.sex = 'female';
+cat.sex = 'male';
 
